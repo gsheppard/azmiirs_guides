@@ -26,6 +26,10 @@
 
 # Barbarian
 
+I *have witnessed the indomitable performance of
+barbarians on the field of battle, and it makes me wonder
+what force lies at the heart of their rage.* — Seret, archwizard
+
 A tall human tribesman strides through a blizzard, draped in fur and hefting his axe. He laughs as he charges toward the frost giant who dared poach his people’s elk herd. A half-orc snarls at the latest challenger to her authority over their savage tribe, ready to break his neck with her bare hands as she did to the last six rivals.
 
 Frothing at the mouth, a dwarf slams his helmet into the face of his drow foe, then turns to drive his armored elbow into the gut of another.
@@ -36,9 +40,9 @@ For some, their rage springs from a communion with fierce animal spirits. Others
 The anger felt by a normal person resembles the rage of a barbarian in the same way that a gentle breeze is akin to a furious thunderstorm. The barbarian’s driving force comes from a place that transcends mere emotion, mak- ing its manifestation all the more terrible. Whether the impetus for the fury comes entirely from within or from forging a link with a spirit animal, a raging barbarian becomes able to perform supernatural feats of strength and endurance. The outburst is temporary, but while it lasts, it takes over body and mind, driving the barbarian on despite peril and injury, until the last enemy falls.
 
 It can be tempting to play a barbarian character that is a straightforward application of the classic archetype—a brute, and usually a dimwitted one at that, who rushes in where others fear to tread. But not all the barbarians in the world are cut from that cloth, so you can certainly put your own spin on things. Either way, consider adding some flou rishes to make your barbarian stand out from all others; see the following sections for some ideas.
+```
+```
 
-```
-```
 ### Primal Instinct
 People of towns and cities take pride in how their civilized ways set them apart from animals, as if denying one’s own nature was a mark of superiority. To a barbarian, though, civilization is no virtue, but a sign of weakness. The strong embrace their animal nature—keen instincts, primal physicality, and ferocious rage. Barbarians are uncomfortable when hedged in by walls and crowds. They thrive in the wilds of their homelands: the tundra, jungle, or grasslands where their tribes live and hunt.
 
@@ -50,11 +54,10 @@ Not every member of the tribes deemed “barbarians” by scions of civilized so
 
 Their courage in the face of danger makes barbarians perfectly suited for adventuring. Wandering is often a way of life for their native tribes, and the rootless life of the adventurer is little hardship for a barbarian. Some barbarians miss the close-knit family structures of the tribe, but eventually find them replaced by the bonds formed among the members of their adventuring parties.
 
-### Creating a Barbarian
+### Faerun
+Many of the lands of the Sword Coast and the North are savage, where day-to-day survival is a struggle. Such lands breed hardy tribes and fierce warriors, such as the Reghed and Uthgardt barbarians of the North and the seafaring Northlanders of the Moonshae Isles and the northernmost reaches of the Sword Coast.
 
-When creating a barbarian character, think about where your character comes from and his or her place in the world. Talk with your DM about an appropriate origin for your barbarian. Did you come from a distant land, making you a stranger in the area of the campaign? Or is the campaign set in a rough-and-tumble frontier where barbarians are common?
-
-What led you to take up the adventuring life? Were you lured to settled lands by the promise of riches? Did you join forces with soldiers of those lands to face a shared threat? Did monsters or an invading horde drive you out of your homeland, making you a rootless refugee? Perhaps you were a prisoner of war, brought in chains to “civilized” lands and only now able to win your freedom. Or you might have been cast out from your people because of a crime you committed, a taboo you violated, or a coup that removed you from a position of authority.
+Barbarians of these lands a re most often humans or half-ores, occasionally half-elves born of contact between savage human tribes and the elves of the North or Western Heartlands, or tieflings from tribes known to consort with fiends. Dwarf barbarians a re famed and feared warriors among the fiercely proud clans that have reclaimed territories like Mithril Hall and Gautlgrym. Barbarians of most other races hail from warmer southern lands, rather than the Savage North, although southern foundlings are sometimes adopted in the North and raised by tribes there.
 
 \page
 
@@ -151,6 +154,13 @@ Yo u start with the following equipment, in addition to the equipment granted by
 - (a) a greataxe or (b) any martial melee weapon
 - (a) two handaxes or (b) any simple weapon
 - An explorer’s pack and four javelins
+
+
+### Creating a Barbarian
+
+When creating a barbarian character, think about where your character comes from and his or her place in the world. Talk with your DM about an appropriate origin for your barbarian. Did you come from a distant land, making you a stranger in the area of the campaign? Or is the campaign set in a rough-and-tumble frontier where barbarians are common?
+
+What led you to take up the adventuring life? Were you lured to settled lands by the promise of riches? Did you join forces with soldiers of those lands to face a shared threat? Did monsters or an invading horde drive you out of your homeland, making you a rootless refugee? Perhaps you were a prisoner of war, brought in chains to “civilized” lands and only now able to win your freedom. Or you might have been cast out from your people because of a crime you committed, a taboo you violated, or a coup that removed you from a position of authority.
 
 <div class='descriptive'>
 ##### Quick Build
@@ -254,7 +264,7 @@ Rage burns in every barbarian’s heart, a furnace that drives him or her toward
 
 \page
 
-### Path of the Berserker
+### Path of the Berserker (PHB)
 For some barbarians, rage is a means to an end-—that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker’s rage, you thrill in the chaos of battle, heedless of your own health or well-being.
 
 #### Frenzy
@@ -286,7 +296,7 @@ Starting at 14th level, when you take damage from a creature that is within 5 fe
 ```
 ```
 
-### Path of the Battlerager
+### Path of the Battlerager (SCAG)
 
 *Closest to the dark elves, Pwent lowered his head, with its long helmet spike, and impaled one elf through the chest, blasting through the fme mesh of draw armor easily and brutally. The second draw managed to deflect the next battlerager's charge, turning the helmet spike aside with both his swords. But a mailed fist, the knuckles devilishly spiked with barbed points, caught the draw under the chin and tore a gaping hole in his throat. Fighting for breath, the drow managed to score two nasty hits on his opponent's back, but those two strikes did little in the face of the flurry launched by the wild-eyed dwarf.* - R.A. Salvatore, Siege of Darkness
 
@@ -313,7 +323,7 @@ Starting at 14th level, when a creature within 5 feet of you hits you with a mel
 
 \page
 
-### Path of the Totem Warrior
+### Path of the Totem Warrior <br/>(PHB + SCAG)
 The Path of the Totem Warrior is a spiritual journey, as the barbarian accepts a spirit animal as guide, protector, and inspiration. In battle, your totem spirit fills you with supernatural might, adding magical fuel to your barbarian rage.
 
 Most barbarian tribes consider a totem animal to be kin to a particular clan. In such cases, it is unusual for an individual to have more than one totem animal spirit, though exceptions exist.
@@ -334,10 +344,11 @@ Your totem animal might be an animal related to those listed here but more appro
 
 **Wolf.** While you're raging, your friends have advantage on melee attack rolls against any creature within 5 feet of you that is hostile to you. The spirit of the wolf makes you a leader of hunters.
 
-**Elk.** While you're raging and aren't wearing heavy ar- mor, your walking speed increases by 15 feet. The spirit of the elk makes you extraordinarily swift.
+**Elk. (SCAG)** While you're raging and aren't wearing heavy armor, your walking speed increases by 15 feet. The spirit of the elk makes you extraordinarily swift.
 
-**Tiger.** While raging, you can add 10 feet to your long jump distance and 3 feet to your high jump distance. The spirit of the tiger empowers your leaps.
-
+**Tiger. (SCAG)** While raging, you can add 10 feet to your long jump distance and 3 feet to your high jump distance. The spirit of the tiger empowers your leaps.
+```
+```
 #### Aspect of the Beast
 At 6th level, you gain a magical benefit based on the totem animal of your choice. You can choose the same animal you selected at 3rd level or a different one.
 
@@ -347,9 +358,9 @@ At 6th level, you gain a magical benefit based on the totem animal of your choic
 
 **Wolf.** You gain the hunting sensibilities of a wolf. You can track other creatures while traveling at a fast pace, and you can move stealthily while traveling at a normal pace (see chapter 8 for rules on travel pace).
 
-**Elk.** Whether mounted or on foot,your travel pace is doubled, as is the travel pace of up to ten companions while they're within 60 feet of you and you're not inca- pacitated (see chapter 8 in the Player's Handbook for more information about travel pace). The elk spirit helps you roam far and fast.
+**Elk. (SCAG)** Whether mounted or on foot,your travel pace is doubled, as is the travel pace of up to ten companions while they're within 60 feet of you and you're not inca- pacitated (see chapter 8 in the Player's Handbook for more information about travel pace). The elk spirit helps you roam far and fast.
 
-**Tiger.** You gain proficiency in two skills from the fol- lowing list: Athletics, Acrobatics, Stealth, and Survival. The cat spirit hones your survival instincts.
+**Tiger. (SCAG)** You gain proficiency in two skills from the fol- lowing list: Athletics, Acrobatics, Stealth, and Survival. The cat spirit hones your survival instincts.
 
 #### Spirit Walker
 At 10th level, you can cast the commune with nature spell, but only as a ritual. When you do so, a spiritual version of one of the animals you chose for Totem Spirit or Aspect of the Beast appears to you to convey the information you seek.
@@ -363,9 +374,9 @@ At 14th level, you gain a magical benefit based on a totem animal of your choice
 
 **Wolf.** While you’re raging, you can use a bonus action on your turn to knock a Large or smaller creature prone when you hit it with melee weapon attack.
 
-**Elk.** While raging, you can use a bonus action during your move to pass through the space of a Large or smaller creature. That creature must succeed on a Strength saving throw (DC 8 + your Strength bonus + your proficiency bonus) or be knocked prone and take bludgeoning damage equal to ld12 +your Strength modifier.
+**Elk. (SCAG)** While raging, you can use a bonus action during your move to pass through the space of a Large or smaller creature. That creature must succeed on a Strength saving throw (DC 8 + your Strength bonus + your proficiency bonus) or be knocked prone and take bludgeoning damage equal to ld12 + your Strength modifier.
 
-**Tiger.** While you're raging, if you move at least 20 feet in a straight line toward a Large or smaller target right before making a melee weapon attack against it, you can use a bonus action to make an additional melee weapon attack against it.
+**Tiger. (SCAG)** While you're raging, if you move at least 20 feet in a straight line toward a Large or smaller target right before making a melee weapon attack against it, you can use a bonus action to make an additional melee weapon attack against it.
 
 \page
 
@@ -390,7 +401,7 @@ The totems of the Uthgardt barbarians of the Sword Coast North correspond to the
 
 \page
 
-### Path of the Ancestral Guardian
+### Path of the Ancestral Guardian (XGTE)
 
 Some barbarians hail from cultures that revere their ancestors. These tribes teach that the warriors of the past linger in the world as mighty spirits, who can guide and protect the living. When a barbarian who follows this path rages, the barbarian contacts the spirit world and calls on these guardian spirits for aid.
 
@@ -428,7 +439,7 @@ Spirit Shield prevents.
 ```
 ```
 
-### Path of the Zealot
+### Path of the Zealot (XGTE)
 
 Some deities inspire their followers to pitch themselves into a ferocious battle fury. These barbarians are zealots — warriors who channel their rage into powerful displays of divine power.
 
@@ -459,7 +470,7 @@ Beginning at 14th level, the divine power that fuels your rage allows you to shr
 
 \page
 
-### Path of the Storm Herald
+### Path of the Storm Herald (XGTE)
 
 All barbarians harbor a fury within. Their rage grants them superior strength, durability, and speed. Barbarians who follow the Path of the Storm Herald learn to transform that rage into a mantle of primal magic, which swirls around them. When in a fury, a barbarian
 ofthis path taps into the forces of nature to create powerful magical effects.
